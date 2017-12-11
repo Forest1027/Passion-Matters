@@ -11,7 +11,7 @@ key words: children, learning foreign languages, primary school rather than seco
 	5. expert: educationlist, specialist, authority
 	6. advantages outweigh the disadvantages, do more good than harm
 2. other topic word/phrase
-	1. favilitate...促进，帮助，使容易
+	1. facilitate...促进，帮助，使容易
 	2. leisure time/spare time, the greater flexibility of timetable
 	3. teach in interesting way, a played-centered approach
 	4. attract students, maintain learner's enthusiasm and progress
