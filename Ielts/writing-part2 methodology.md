@@ -22,7 +22,6 @@
 				2. 5 sentences: idea; explain(2 or 3 sentences); example
 	4. Conclusion
 		1. rule:never write anything new;one sentence.
-		
 	5. Planning: 10min
 		1. Step1: highlight key parts
 		2. Step2: plan essay structure (4 paragraphs)
