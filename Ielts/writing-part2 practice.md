@@ -1,5 +1,5 @@
 # Part2 practice
-**9 Test1**
+**9 Test1** education
 
 key words: children, learning foreign languages, primary school rather than secondary school
 
@@ -28,7 +28,7 @@ key words: children, learning foreign languages, primary school rather than seco
 	1. **This policy has been adopted** by some **educational authorities or individual schools**, **with both positive and negative outcomes**.
 	2. The obvious argument in its favour is that......最明显的有力证据是
 
-**9 Test3**
+**9 Test3** lifestyle, health
 
 1. basic paraphrasing
 	1. sport: exercise, physical activity-physically active
@@ -54,3 +54,34 @@ key words: children, learning foreign languages, primary school rather than seco
 3. sentence
 	1. People have different views about whether....(discussion题型开头句式)
 	2. A problem of ... is ..., with conflicting views on ....(discussion题型开头句式)
+
+**11 Test1** traffic,government
+
+1. make efforts in
+2. Nevertheless
+3. construct railway/ railway construction/ railway establishment
+4. undoubtedly
+5. can be deemed as a win-win program
+6. the transporting load of railage in a unit time is the largest
+7. fastest approach of conveyance*运输工具* on land
+8. simultaneously
+9. entail congestion 导致拥挤
+10. evidently
+11. it is advantageous to implement...
+12. comprehensive elements 综合因素
+13. the scale of city development 
+14. the extent of population mobility
+15. the condition of geographical surroundings
+16. world-famous metropolises
+17. railroad 铁路
+18. traffic-way 公路
+19. **For one thing**, **major cities** need to receive populations nationwide and even worldwide; thereby, sufficient convenience must be provided by perfect train system. Meanwhile, residents living in such a big city are supposed to be ensure with a relatively pleasant road-travel condition.
+20. For those middle-sized cities or towns，situations should differ according to different complex consideration.
+21. With the help of proper geography and adequate budgets,....
+22. Instead, it tends to introduce numerous opportunities for further development.
+23. immigrating population, population density
+24. additionally
+25. along with the above sweeteners, ....
+26. financial investment
+27. Overall, decision of whether to build should not be arbitrary, while it must be in accordance with laws of civil development.
+
