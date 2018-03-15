@@ -1,5 +1,7 @@
-Part2
+**Part2**
+
 1. great decision made by others
+
 	who
 		energetic
 	when
@@ -7,7 +9,6 @@ Part2
 	what
 		quit her job, in search of her real passion
 		gather infomation on the Internet, ask for senior people's advice
-
 	why
 		desperate
 		tedious, typing on the computer following rigid instruction of certain rules in a foreign company, waste of her talents, 
@@ -19,6 +20,7 @@ Part2
 		teach to university students, share her life lessons, make progress together, enjoyable
 
 2. occasion that needs to be polite
+	
 	when
 		a year ago
 	what
@@ -32,6 +34,7 @@ Part2
 		wear(wore) a smile, shake hands firmly, take things with two hands, use honorific
 
 3. popular people
+	
 	who
 		blonde hair, slim figure
 		organization where i receive my english training
@@ -45,6 +48,7 @@ Part2
 		love to make friend(hospitable), generosityto help, confident, physical attractiveness
 
 4. compliment
+	
 	when
 		several years ago, university time
 	what you did
@@ -58,8 +62,10 @@ Part2
 		over the moon, appreiciate, on the right direction
 
 
-Part3
+**Part3**
+
 1. politeness
+
 	what occasions
 		at work, be polite to collegues and boss, a guarantee for the harmonious working environment
 		at home, be polite to parents and relatives, show respect; 
@@ -72,7 +78,9 @@ Part3
 		offer seat to elderly, control the speaking voice and put on the earphone if you are watching media resources so that you dont disturb others
 		dont litter on the public space
 		remember to say "excuse me" if bother others
+
 2. popular people
+
 	what qualities
 		talented
 			singing talent
@@ -83,7 +91,6 @@ Part3
 		pleasing personality
 			considerate
 			warm-hearted
-
 	need talents?
 		not necessary
 	children imitate idols?
@@ -96,7 +103,9 @@ Part3
 		mask, sunglasses, hide identity; unable to visit public place like ordinary people
 		otherwise, follow them everywhere, scream for excitement
 		stalk them
+
 3. animals
+
 	types of animals
 		stray animals
 			homeless, care center
@@ -110,11 +119,12 @@ Part3
 		important source of protein, energy
 		food chain, healthier
 		without them, unbalanced diet
+
 4. decisions
+
 	difficult to make decisions?
 		depend on what decision to make
 			trvial matter like what shoes to buy, who will take care of the dishes->not 
-
 			decisons have prolonged effect on life, major selection, career direction, choose lifetime partner; you will have to take responsibility
 			arbitrary choice->high cost
 			no one foresee the future->difficult
@@ -129,7 +139,9 @@ Part3
 		depends on what specific matter it is;
 		matter that beyong their knowledge, not necessary. what stock to buy for family investment, or we buy foreign currency or gold to boost family wealth? ->no
 		matters that closely link to their life, like which school to go, where to live-> yes. take their thoughts into consideration. otherwise, if children dont like it, that will bring more contradiction, in puperty
+
 5. compliment
+
 	people in your country like to give compliments?
 		yes. not always. some people are willing to give compliments, they take it as a way to encourage people. For example, one of my colleague, she praises me everytime i've done a good job; others dont, they may not have the sensibility of one's talent, or the communication skill  to express their feeling.
 	Encouragement and punishment, which more important?
