@@ -85,3 +85,11 @@ key words: children, learning foreign languages, primary school rather than seco
 26. financial investment
 27. Overall, decision of whether to build should not be arbitrary, while it must be in accordance with laws of civil development.
 
+**11 Test2** waste recycling
+1. the establishment of recycling law
+2. making recycling obligatory/compulsory - voluntary
+3. domestic garbage/ household waste
+4. waste recycling/ waste reuse
+5. placing advertisements on TV
+6. citizens/ inhabitants/ dwellers
+
