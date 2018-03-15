@@ -61,6 +61,21 @@
 	how feel
 		over the moon, appreiciate, on the right direction
 
+5. activity help you keep fit
+
+	what you do
+		go to dancing class with friend
+	when and where you do
+		during university time, twice a week
+	how you do
+		follow dan ce instructor's movements, keep practising certain one to strengthen memory
+	why it keep fit
+		a lot of movements->burn fats
+		improve condition of heart and lungs, increase muscular strength and stamina
+		away from obesity
+		risistance to illness
+		dancing can be good method to stay fit for people of all ages, shapes and sizes.
+		meet new friends->mental health
 
 **Part3**
 
@@ -149,3 +164,25 @@
 		for children, verbal or even corporal punishments to regulate their behaviour, but this may hurt the self esteem;
 		in their process of forming character, build confidence. without confidence, one can barely achieve anything.
 		for adults, need feedback to evaluate our work, to improve the efficiency; sometimes it works better if people get payment raise or other rewards, because these incentives provide positive energy. when penalty, stress->lower efficiency, vulnerable to illness->not humanized
+
+6. keep fit
+
+	what old people do to keep fit?
+		in the morning, walking and jogging, tai chi in the park. walk dogs. to enjoy the fresh air
+		also to play chess with friends, helpful to mental health
+
+		in the evening, dancing square, dance with partners both for entertainment and exercise
+
+	young people should play dangerous sports?
+		play dangerous sports->put themselves in jeopardy->worry about, get injured, life long injury
+
+		some may enjoy playing extreme sports, love the excitement, adrenaline rush during the process
+
+		safety is more than anything
+	what else to keep fit besides sports?
+		housework, washing dishes, mopping the floor, trivial but do help to digest food, burn fat
+		walk after meal, sedentary lifestyle
+		have enough rest, 8-10h sleep for children , 8+h for adults per day
+		eat healthy food, gain balanced diet, avoid food that contains too much sugar, salt, cardiovascular desease
+	how do parents do to make their children like sports?
+		play with them, watch matches to gain more relevant knowledge
