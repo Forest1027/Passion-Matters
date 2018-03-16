@@ -77,6 +77,23 @@
 		dancing can be good method to stay fit for people of all ages, shapes and sizes.
 		meet new friends->mental health
 
+6. furniture
+	
+	what kind
+		a sofa
+	when
+		several months ago when I got to Shanghai
+		bought it on an online secondary market
+		for the convenience of our life
+		put it in our apartment, 
+	what look like
+		old fashioned, brown, made of leather
+	why you like it
+		our apartment is small, most of our activities are done on this sofa. On weekdays, when we come back home , we take out the laptops and sit on the sofa to acquire new knowledge or continue the unfinished work; On weekend, we enjoy the entertainment activities on it, like we watch the amusing TV programs, play mobile games and so on
+
+		we spend time on it, there are memories. recall the sweet memories
+
+
 **Part3**
 
 1. politeness
