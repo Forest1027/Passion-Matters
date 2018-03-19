@@ -1,3 +1,7 @@
+**通用**
+
+If my memory serves me well,.... 如果没记错的话
+
 **Part2**
 
 1. great decision made by others
@@ -93,6 +97,31 @@
 
 		we spend time on it, there are memories. recall the sweet memories
 
+7. historic period
+	
+	 when
+	 	Tang dynasty, ruled for almost 300 years, between 7 centuries and 10 centuries.
+	 	be obsessed with 
+	 what happened
+	 	beginning of the silk road. interconnected routes connecting Chang an with Southern Asia and Middle East.
+	 	play an unique role in foreign trade and cultural exchange during the reign of Tang Dynasty
+	 who played an important role
+	 	Characters like Tang GaoZong, an important emperor, played an unforgetable role of this period, who helped boost the economy of China. As well as Wu Ze tian, the first empress in China's history. She promoted Buddihism and flourished it in her reign. Besides, there are also famous poets like Li bai who created the imperishable masterpieces. All of those characters contribute to the prosperity of Tang Dynasty.
+	 why you are intersted
+	 	fincination, the flourishment of this period. most powerful, have the greatest foreign influences towards the surrounding countries like Korea, Japan, and other Southeast China
+	 	golden age of imperial China
+
+8. car journey
+
+	where
+		once drove 6 hours to Shanghai, a metropolis in 
+		China
+	what you did
+		enjoy the spectacular view of Shanghai Bund and Oriental Pearl Tower on the opposite side of Huangpu River, visit the bustling Jingan Temple, and gorgeous Yu Garden. What facinates me most is the abundant collection of various architectural styles, like the old buildings in Wukang Road. impressed by the the politeness the drivers shown, they dont rush to scramble the roadway, instead, they take turns to pass. highly civilized image.
+	who went with
+		university roomates. desperate to get to somewhere out of our university. good impression on Shanghai 
+	why by car
+		decided in a sudden, no train tickets left, as we all had the driver's lisence. we drove in turn to get there. tired and exhausted, but full of fun. you can hear the giggling from our car all the way to Shanghai.
 
 **Part3**
 
