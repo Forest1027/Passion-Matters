@@ -203,3 +203,9 @@
 		eat healthy food, gain balanced diet, avoid food that contains too much sugar, salt, cardiovascular desease
 	how do parents do to make their children like sports?
 		play with them, watch matches to gain more relevant knowledge
+7. furniture
+	what factors will be considered?
+		quality(durability), design, color, price, size
+	difference between office furniture and home furniture
+		office: simple and plain, public use, durability, larger
+		home: delicate in detail, private use, careful about color(consider the overall consistency), comfort and convenience
