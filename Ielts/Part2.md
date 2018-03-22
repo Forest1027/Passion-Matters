@@ -1,6 +1,21 @@
 **通用**
 
 If my memory serves me well,.... 如果没记错的话
+improve people's awareness of cleanliness and orderliness.
+day in and day out
+intensive self-study
+Let's not shoot ourselves in the foot. 不要作茧自缚
+
+describe people
+	jump out of the beaten track 突破常规
+	the obsession of 对...的迷恋
+	be intrigued by 被吸引
+	hearty 热心的
+	be envious of羡慕
+ads
+	online ads- pop up
+	graphics designs
+	vivid colors
 
 **Part2**
 
@@ -123,6 +138,49 @@ If my memory serves me well,.... 如果没记错的话
 	why by car
 		decided in a sudden, no train tickets left, as we all had the driver's lisence. we drove in turn to get there. tired and exhausted, but full of fun. you can hear the giggling from our car all the way to Shanghai.
 
+9. interesting place few people know
+	
+	where it is?
+		a deserted mountain near my home, about 15 min's walk
+
+	how do you know
+		by coincidence. on day hang out, and fid there was a hidden pathway to go up to top
+
+	why few people know
+		limited transportation,  
+
+	why insteresting
+		when climbing to the top, I can enjoy the breathtaking view of the whole city in the shade of golden sunlight. exert time and effort, make the view even more precious.
+
+10. ads
+
+	when and where
+		subway station, be aroused by the vivid color. 
+
+	what product
+		selfie camera app
+
+	what content
+		a series pictures posted on the wall. 
+		each has a girl on it and is with an appealing slogan on  tag line--"I am beautiful, are you?"
+
+	how you feel
+		impressed by the model they choose, instead of using the celebrities' great impact, they select ordinary girls of different nationalities, different colors, sizes, shapes. which covey a tricky message that everybody just like you and me can be beautiful regardless of their color, shapes, sizs, just be confident. This encouraging idea will make viewers feel intrigued and is helpful to buil a positive brand image. 
+		advertising strategy is smart 
+
+11. toy in childhood
+
+ 	when
+		5 yeear old birthday party
+	what look like
+		baby doll with black hair, white skin, in flowery dress. soft texture, make it huggable
+	who gave
+		mom
+	how you felt
+		at the very beginning, i held it every night when I slept. it was so special because of the sentimental value conveyed. you know, mom's love. 
+		One night,  I was left at home alone at night, because mom and dad were caught in a traffic jam, and counldn't arrive home as early as I wish. Drowned in the darkness, I was frightened and lonely. But luckily, I had this little doll to accompany me, gave me great comfort then.
+
+
 **Part3**
 
 1. politeness
@@ -238,3 +296,51 @@ If my memory serves me well,.... 如果没记错的话
 	difference between office furniture and home furniture
 		office: simple and plain, public use, durability, larger
 		home: delicate in detail, private use, careful about color(consider the overall consistency), comfort and convenience
+
+
+**Writing**
+
+**upgrade expression**
+
+1. is more and more important -> is an ever greater priority
+2. be free to do -> should retain the freedom to do
+3. biggest reason -> principal reason
+4. very dangerous -> highly dangerous
+5. sometimes kill people -> sometimes be life-threatening
+6. be in danger/be at risk
+7. badly hurt -> seriously injured
+8. may be hurt -> may not escape unharmed
+9. Because of this danger -> Given the danger of danger
+10. people want government to do -> people call for authorities to do
+11. should be free to do -> should be allowed to do
+12. do whatever risk they want ->  assume whatever risk they choose
+13. the government cannot say what they should do -> it should be accepted that **it is not the place of** the government to **dictate how they lead their lives**.
+14. do activities -> carry out activities
+15. My personal view is that, while....it would be preferable(not) to
+16. ...is the most important thing -> ...has to be paramount
+17. especially where **minors**(未成年人) are involved
+18. minimise the risk
+
+**useful academic expression**
+
+1. within certain limits
+2. participate in, participants
+3. in statistical terms 
+4. there is a low probability that...
+
+
+We live in a world where health and safety is more and more important. One of the signs of this people want the government to ban dangerous sports. While I understand that argument, my view is that people should be free to do whatever sports they want.
+
+*We live in a world where health and safety is an ever greater priority. One of the signs of this is the demand that dangerous sports should be banned. While I understand that argument, my view is that, within certain limits, people should retain the freedom to participate in whatever sports they choose.*
+
+The biggest reason for objecting to dangerous sports is that they can be very dangerous and can sometimes kill people. More than that, it is not just the sportspeople who are in danger, but spectators too can be badly hurt. If, for example, a Formula 1 car crashes, the driver may be hurt and it is possible that people in the crowd will be too. Because of this danger, it is understandable why people want the government to ban these sports.
+
+*The principal reason for objecting to extreme sports is of course that they can be highly dangerous and sometimes life-threatening. More than that, it is not just the participants who are at risk, but spectators too can be seriously injured. If, for example, a Formula 1 car crashes, the driver may not escape unharmed and there is also a chance that a bouncing tyre or debris will fly into the crowd. Given this level of danger, it is understandable why people call for the authorities to take action.*
+
+The opposite argument is that people should be free to do whatever risk they want. So, if someone wants to jump out of a plane, then they should be allowed to and the government cannot say what they should do. A further point is that many dangerous sports are not very risky and it is as dangerous doing everyday activities such as crossing the road or cooking a meal as bungee jumping.
+
+*The counter argument is that people should be allowed to assume whatever risk they choose. So, if someone wishes to freefall from a plane at 30,000 feet, then they should be free to do so and it should be accepted that it is not the place of the government to dictate how they lead their lives. A further point is that in statistical terms there is a low probability of injury in many so-called dangerous sports and people are at greater risk carrying out everyday activities such as crossing the road or cooking a meal than bungee jumping.*
+
+I think that the government should regulate dangerous sports, but it should not ban them. It should also make certain that there is as little danger as possible because safety is the most important thing. This is most important for young children who cannot make their own decisions.
+
+*My personal view is that while the government and other authorities do need to regulate dangerous sports, it would be preferable not to impose a ban on them entirely. I would suggest that  safeguards need to be established so that any risk is minimised. What these safeguards are will vary from sport to sport, but safety has to be paramount, especially where minors are involved.*
