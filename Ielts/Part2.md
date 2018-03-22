@@ -1,6 +1,16 @@
 **通用**
 
 If my memory serves me well,.... 如果没记错的话
+improve people's awareness of cleanliness and orderliness.
+day in and day out
+intensive self-study
+
+describe people
+	jump out of the beaten track 突破常规
+	the obsession of 对...的迷恋
+	be intrigued by 被吸引
+	hearty 热心的
+	be envious of羡慕
 
 **Part2**
 
@@ -122,6 +132,18 @@ If my memory serves me well,.... 如果没记错的话
 		university roomates. desperate to get to somewhere out of our university. good impression on Shanghai 
 	why by car
 		decided in a sudden, no train tickets left, as we all had the driver's lisence. we drove in turn to get there. tired and exhausted, but full of fun. you can hear the giggling from our car all the way to Shanghai.
+
+9. interesting place few people know
+	
+	where it is?
+		a deserted mountain near my home, about 15 min's walk
+
+	how do you know
+		by coincidence. on day hang out, and fid there was a hidden pathway to go up to top
+
+	why few people know
+
+	why insteresting
 
 **Part3**
 
