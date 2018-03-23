@@ -1,10 +1,19 @@
 **通用**
 
 If my memory serves me well,.... 如果没记错的话
+
+
+
 improve people's awareness of cleanliness and orderliness.
 day in and day out
 intensive self-study
 Let's not shoot ourselves in the foot. 不要作茧自缚
+
+
+
+
+
+
 
 describe people
 	jump out of the beaten track 突破常规
@@ -137,6 +146,15 @@ ads
 		university roomates. desperate to get to somewhere out of our university. good impression on Shanghai 
 	why by car
 		decided in a sudden, no train tickets left, as we all had the driver's lisence. we drove in turn to get there. tired and exhausted, but full of fun. you can hear the giggling from our car all the way to Shanghai.
+
+
+
+
+
+
+
+
+
 
 9. interesting place few people know
 	
@@ -295,6 +313,7 @@ ads
 		quality(durability), design, color, price, size
 	difference between office furniture and home furniture
 		office: simple and plain, public use, durability, larger
+		home: delicate in detail, private use, careful about color(consider the overall consistency), comfort and convenience
 		home: delicate in detail, private use, careful about color(consider the overall consistency), comfort and convenience
 
 
