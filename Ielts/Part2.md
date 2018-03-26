@@ -1,18 +1,13 @@
+**Speaking**
+
 **通用**
 
 If my memory serves me well,.... 如果没记错的话
-
-
 
 improve people's awareness of cleanliness and orderliness.
 day in and day out
 intensive self-study
 Let's not shoot ourselves in the foot. 不要作茧自缚
-
-
-
-
-
 
 
 describe people
@@ -317,7 +312,7 @@ ads
 		home: delicate in detail, private use, careful about color(consider the overall consistency), comfort and convenience
 
 
-**Writing**
+**Writing-task2**
 
 **upgrade expression**
 
@@ -347,6 +342,7 @@ ads
 3. in statistical terms 
 4. there is a low probability that...
 
+**Example Essay:**
 
 We live in a world where health and safety is more and more important. One of the signs of this people want the government to ban dangerous sports. While I understand that argument, my view is that people should be free to do whatever sports they want.
 
@@ -363,3 +359,57 @@ The opposite argument is that people should be free to do whatever risk they wan
 I think that the government should regulate dangerous sports, but it should not ban them. It should also make certain that there is as little danger as possible because safety is the most important thing. This is most important for young children who cannot make their own decisions.
 
 *My personal view is that while the government and other authorities do need to regulate dangerous sports, it would be preferable not to impose a ban on them entirely. I would suggest that  safeguards need to be established so that any risk is minimised. What these safeguards are will vary from sport to sport, but safety has to be paramount, especially where minors are involved.*
+
+
+**Structure**
+
+People say
+	
+	it is often argued that...; it is sometimes suggested that...; there are those who maintain that...; there  is a school of thoughts that...
+
+	eg: 作为插入语 This money, it is argued, would be better spent on welfare and education programmes that provide direct support for the population.
+
+place too much emphasis on...过于看重...
+
+双观点的连接
+
+	One reason why this is so is that......Something else to be taken into account is that......; Indeed,... Likewise,...
+
+main body首句
+
+	The major argument against... is...
+
+**Topic vocabulary**
+
+advertising
+	
+	a material world, be inundated with..., television commercials, tournament sponsors, blockbuster movie(大片), be profoundly influenced by..., harmful products like alcohol and tobacco, exposure to advertising
+
+	high street shoppers/online shoppers/impulse buyers/regular customers/children/adults
+
+sports everything
+	
+	stage(host) international sporting events; build the arenas and modernise the infrastructure; cater for the athletes and the spectators; have incurred debt through....; honour and prestige, host country, the duration of the event; bid(叫价) for an event
+
+
+**Writing-task1**
+
+*Line graph*
+
+how
+	
+	start&end; high&low points; where lines cross; periods of no changes; where change directions
+
+trend
+	
+	rose, increased, went up/an upturn; fell, decreased, went down/a drop; fluctuate/a fluctuation; stabilize/stable, remain steady, no change; peak
+
+adj&adv
+
+	spectacular(ly), dramatic(ly), substantial(ly), significant(ly), sudden(ly), sharp(ly) 
+
+	steady, consistent, gradual
+
+	modest, slight, marginal
+
+	overall, downward, upward
