@@ -65,7 +65,7 @@ ads
 		2 years ago 
 	what
 		performed on the stage, speak in confidence, eye-catching performance fascinate everyone on the scene
-		throw parties, plenty of interesting people to talk with. offer to clean up after one party, she said it was fine
+		throw parties, life and soul of the party, plenty of interesting people to talk with. offer to clean up after one party, she said it was fine
 	why
 		personal trait. charismatic
 		love to make friend(hospitable), generosityto help, confident, physical attractiveness
@@ -380,6 +380,14 @@ main body首句
 	The major argument against... is...
 
 **Topic vocabulary**
+
+burgeoning industry 快速发展的行业
+dazzling feats 惊人的成就
+disastrous 灾情惨重的
+drastic dispute, drastic measures
+extravagant/luxurious
+ferocious 凶猛的
+formidable 艰难的, 难对付的
 
 advertising
 	
