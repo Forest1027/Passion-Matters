@@ -68,7 +68,7 @@ ads
 		throw parties, life and soul of the party, plenty of interesting people to talk with. offer to clean up after one party, she said it was fine
 	why
 		personal trait. charismatic
-		love to make friend(hospitable), generosityto help, confident, physical attractiveness
+		love to make friend(hospitable), generosity to help, confident, physical attractiveness
 
 4. compliment
 	
@@ -91,7 +91,7 @@ ads
 	when and where you do
 		during university time, twice a week
 	how you do
-		follow dan ce instructor's movements, keep practising certain one to strengthen memory
+		follow dance instructor's movements, keep practising certain one to strengthen memory
 	why it keep fit
 		a lot of movements->burn fats
 		improve condition of heart and lungs, increase muscular strength and stamina
@@ -324,7 +324,7 @@ ads
 6. be in danger/be at risk
 7. badly hurt -> seriously injured
 8. may be hurt -> may not escape unharmed
-9. Because of this danger -> Given the danger of danger
+9. Because of this danger -> Given this level of danger
 10. people want government to do -> people call for authorities to do
 11. should be free to do -> should be allowed to do
 12. do whatever risk they want ->  assume whatever risk they choose
@@ -388,6 +388,10 @@ drastic dispute, drastic measures
 extravagant/luxurious
 ferocious 凶猛的
 formidable 艰难的, 难对付的
+hefty action film 火爆动作片
+immense influence 重大影响
+imminent 迫近的
+pervasive 普遍的
 
 advertising
 	
@@ -421,3 +425,37 @@ adj&adv
 	modest, slight, marginal
 
 	overall, downward, upward
+
+**Model Sentence**
+
+1) More waste goes to landfill sites than to any other refuse management facility.
+
+More British people go on holiday to Spain than to any other country.
+
+*More [比较的东西] go... to [类别之一] than to any other [其他类别].*
+
+2) Austria and Belgium are the most environmentally friendly of the fifteen countries, recycling around 60% and 50% of their waste respectively.
+
+Apple and Google are the most successful of the five tech companies, recording profits of $45 billion and $20 billion respectively.
+
+*[类别(s)] are the most [adj] of the [比较的总数及类别名称], ...ing around [数字] respectively.*
+
+*预测类*
+
+1. The UK population **was estimated to stand at** 65.6 million in 2016.
+2. 2016 saw the biggest UK population rise for 70 years.
+3. **Over the decade from mid-2016**, projected growth in England's population is put at 5.9%, for Northern Ireland **the figure** is 4.2%, while for Scotland and Wales **the percentages** are 3.2% and 3.1% respectively.
+4. The study **puts projected UK population growth between** 2015 and 2040 **at** 16%, compared with 10% growth for France and 4% for Germany.
+5. The study also says that the number of people aged 85 and over will have **doubled from** 1.6m in 2016 **to** 3.2m in 2041.
+
+*emaple:*
+
+**Task: The graph below shows the average daily spend of three categories of international visitor to New Zealand from 1997 to 2017.**
+
+The line graph compares three types of traveller to New Zealand between 1997 and 2017 **in terms of** their average daily expenditure.
+
+It is noticeable that spending by these international visitors was at its highest between the years 2000 and 2003. Overall, business travellers spent the most per day, while people visiting friends or relatives spent the least.
+
+In 1997, business visitors to New Zealand spent **an average of almost** $260 per day, while holidaymakers spent **around** $190 and people visiting friends or relatives spent **less than** $120. **Over the following five years**, spending by all three types of traveller increased dramatically, **to peaks of around** $330, $270 and $220. However, visitor spending suddenly fell again between 2003 and 2005.
+
+From 2005 to 2015, the daily expenditure of business travellers and tourists **fluctuated around the $200 mark**, whereas people visiting relations or friends spent **roughly 60 to 80 dollars less** per day. By 2017, daily spending had risen to approximately $250, $210 and $140 respectively for vacationers, business people and those visiting loved ones.
