@@ -21,6 +21,14 @@ ads
 	graphics designs
 	vivid colors
 
+*relationship*
+
+be on the same wave length - have similar thoughts and ideas as someone else.
+clear the air - clear the air after the argument to settle differences
+be on the nodding terms - for acquaintances and not friends
+move in the same circles - have the same friends, doesn't mean you are friends
+
+
 **Part2**
 
 1. great decision made by others
@@ -192,6 +200,47 @@ ads
 	how you felt
 		at the very beginning, i held it every night when I slept. it was so special because of the sentimental value conveyed. you know, mom's love. 
 		One night,  I was left at home alone at night, because mom and dad were caught in a traffic jam, and counldn't arrive home as early as I wish. Drowned in the darkness, I was frightened and lonely. But luckily, I had this little doll to accompany me, gave me great comfort then.
+
+12. river
+
+	what is called
+
+		Yangtze River, the longest river in Asia and the third in the world
+
+	how do you know
+
+		the river flows through my hometown, wuhan. built a well known bridge across the river. besides its transporing function, yangtze river bridge also act as a famous scenic spots there
+
+	how big it is
+
+		originate from Tibet Platau, run through more than 10 provinces, emptiy into East China Sea in Shanghai
+
+	why important
+
+		it nourishs hundreds of millions of people, provide abundant food and water resources. water shortage
+		significant tranporting method. convenience of water transporation, especially in the earlier age when cars, trains, planes have not been invented. 
+
+13. class of science
+	
+	what it is 
+
+		chemistry in high school
+
+	what do you learn
+
+		chemical elements, compunds and tedious chemical exams
+
+	how about the teacher
+
+		ran for the representive of the subject, i admired the teacher. slim, tall, in middle age. teaching director, lead busy life, never lower the standard of homework, try his best to analyse our weekness and carry out new scheme to improve it. 
+
+	how you feel
+
+		difficult subjects, not close to our daily life, make it hard to understand. 
+		courageous when facing the problems that seems to be unsolvable at the beginning.
+		work out those problems gave me a sense of achievements
+	
+
 
 
 **Part3**
