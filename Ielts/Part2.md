@@ -238,7 +238,7 @@ move in the same circles - have the same friends, doesn't mean you are friends
 
 		difficult subjects, not close to our daily life, make it hard to understand. 
 		courageous when facing the problems that seems to be unsolvable at the beginning.
-		work out those problems gave me a sense of achievements
+		work out those problems gave me a sense of achievement
 	
 
 
@@ -383,6 +383,7 @@ move in the same circles - have the same friends, doesn't mean you are friends
 16. ...is the most important thing -> ...has to be paramount
 17. especially where **minors**(未成年人) are involved
 18. minimise the risk
+19. large quantity->considerable numbers
 
 **useful academic expression**
 
@@ -448,10 +449,13 @@ advertising
 
 	high street shoppers/online shoppers/impulse buyers/regular customers/children/adults
 
-sports everything
+sports 
 	
 	stage(host) international sporting events; build the arenas and modernise the infrastructure; cater for the athletes and the spectators; have incurred debt through....; honour and prestige, host country, the duration of the event; bid(叫价) for an event
 
+hard work
+	
+	industrious; diligent; studious; goal-oriented; be motivated to study; driven and persistent; outcompete
 
 **Writing-task1**
 
