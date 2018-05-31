@@ -512,3 +512,7 @@ It is noticeable that spending by these international visitors was at its highes
 In 1997, business visitors to New Zealand spent **an average of almost** $260 per day, while holidaymakers spent **around** $190 and people visiting friends or relatives spent **less than** $120. **Over the following five years**, spending by all three types of traveller increased dramatically, **to peaks of around** $330, $270 and $220. However, visitor spending suddenly fell again between 2003 and 2005.
 
 From 2005 to 2015, the daily expenditure of business travellers and tourists **fluctuated around the $200 mark**, whereas people visiting relations or friends spent **roughly 60 to 80 dollars less** per day. By 2017, daily spending had risen to approximately $250, $210 and $140 respectively for vacationers, business people and those visiting loved ones.
+
+
+再推荐一个bbc的听力节目, 在每日英语听力啥的上面都能听到, 叫做 "BBC 6 Minutes English", 话题丰富度和词汇广度都是够得, 非常的nice, 内容可做口语和作文的素材, 还可以顺道练听力. 
+emmm, 我是纯美式发音, 也可以帮助发音不太好的小伙伴们纠发音(曾经做过纠音的兼职). 另外, 我是一枚在上海的程序媛(所以我也不是相关institute的teacher......), 平时上班比较忙, 所以练口语的时间主要在早上9:20以前, 以及晚上21:00以后, 周末可以再商量. 有兴趣的小伙伴欢迎豆油进一步联系~
